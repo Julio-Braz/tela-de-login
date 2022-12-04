@@ -74,7 +74,7 @@ button:{
     backgroundColor: "#292929",
     color: '#F9F7FC',
     justifyContent: "center",
-    borderRadius: 6,
+    borderRadius: 7,
 }
 
 })
