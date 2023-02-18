@@ -1,6 +1,6 @@
 
 
-Página estática bem iniciante de login para estudar propriedades e praticar o uso do Styleshet, e algumas propriedades de imputs de textos.
+Página estática replicando uma tela de login simples do Figma para estudar e praticar o uso do Styleshet do react native, e algumas propriedades de imputs de textos.
 
 
 ##A página de referência poderá ser conferida no link abaixo:
